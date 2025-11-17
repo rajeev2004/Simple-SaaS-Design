@@ -1,0 +1,26 @@
+.input-wrapper {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
+
+input {
+  padding: 10px;
+  border: 1px solid #d1d5db;
+  border-radius: 10px;
+}
+
+input:focus {
+  outline: none;
+  border-color: #0B6FF0;
+}
+
+.error {
+  border-color: #ef4444;
+  background: #fee2e2;
+}
+
+.error-text {
+  color: #dc2626;
+  font-size: 13px;
+}
