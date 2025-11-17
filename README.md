@@ -34,12 +34,12 @@ All components are built from scratch using React + CSS:
 
 ### Live URL
 
-
+### https://rajeev2004.github.io/Simple-SaaS-Design/
 
 
 ## 🛠️ Installation & Running Locally
 ```bash
-git clone <repo-url>
+git clone https://github.com/rajeev2004/Simple-SaaS-Design.git
 ```
 
 ```bash
